@@ -1,29 +1,8 @@
 {
-
-"homepage": "<https://modrinth.com/mod/cringeali-mod>",
-
-"<mcversion>": {
-
-"<modversion>": "<https://modrinth.com/mod/cringeali-mod/versions>",
-
-// List all versions of your mod for the given Minecraft version, along with their changelogs
-
-// ...
-
-},
-
-"promos": {
-
-"<mcversion>-latest": "<1.2.5>",
-
-// Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
-
-"<mcversion>-recommended": "<1.2.5>",
-
-// Declare the latest "stable" version of your mod for the given Minecraft version
-
-// ...
-
-}
-
+  "Modrinth": "https://modrinth.com/mod/cringeali-mod",
+  "Homepage": "https://sites.google.com/view/cringeclan/startseite?authuser=0",
+  "promos": {
+    "1.16.5-latest": "1.2.5",
+    "1.16.5-recommended": "1.2.5"
+  }
 }
